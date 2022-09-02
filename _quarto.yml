@@ -2,9 +2,9 @@ project:
   type: book
 
 book:
-  title: "cnidaria"
-  author: "Jane Doe"
-  date: "02/09/2022"
+  title: "The Cnidaria"
+  author: "Lewis A. Jones"
+  date: today
   chapters:
     - index.qmd
     - intro.qmd

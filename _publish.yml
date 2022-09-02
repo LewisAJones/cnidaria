@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 25c6abf6-190d-431f-b451-b75dda3fecda
+      url: 'https://polite-kashata-9c27c7.netlify.app'
