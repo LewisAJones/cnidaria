@@ -6,6 +6,17 @@ book:
   author: "Lewis A. Jones"
   date: today
   favicon: images/favicon_package_v0-3/favicon.ico
+  search: true
+  repo-url: https://github.com/LewisAJones/cnidaria
+  repo-actions: [edit, issue]
+  sharing: [twitter, facebook]
+  page-footer: 
+    left: "Copyright 2022, Lewis A. Jones" 
+    right: 
+      - icon: github
+        href: https://github.com/LewisAJones
+      - icon: twitter 
+        href: https://twitter.com/LewisAlanJones
   chapters:
     - index.qmd
     - preface.qmd
