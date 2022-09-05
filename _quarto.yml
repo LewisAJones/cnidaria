@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "The Cnidaria"
+  title: "Cnidaria"
   author: "Lewis A. Jones"
   date: today
   favicon: images/favicon_package_v0-3/favicon.ico
@@ -10,6 +10,14 @@ book:
     - index.qmd
     - preface.qmd
     - intro.qmd
+    - anthozoa.qmd
+    - hexacorallia.qmd
+    - octocorallia.qmd
+    - medusozoa.qmd
+    - staurozoa.qmd
+    - cubozoa.qmd
+    - scyphozoa.qmd
+    - hydrozoa.qmd
     - summary.qmd
     - references.qmd
 
