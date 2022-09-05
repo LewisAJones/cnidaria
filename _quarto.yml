@@ -17,6 +17,8 @@ book:
         href: https://github.com/LewisAJones
       - icon: twitter 
         href: https://twitter.com/LewisAlanJones
+      - icon: cup
+        href: https://www.buymeacoffee.com/LewisAJones
   chapters:
     - index.qmd
     - preface.qmd
