@@ -1,12 +1,7 @@
 # Welcome {.unnumbered}
 
+::: {layout-ncol=2}
 This is the website for the 1^st^ edition of **The Cnidarians**. This book is currently being written... in the open. The information presented here is a work in progress and should be taken as such. This is likely to be quite the adventure, and I welcome you to follow along over the coming months, years or however long it takes me to write this...
 
-<figure align="center">
-  <img src="images/cover.jpg" alt="missing" style="width:60%">
-  <figcaption> Photograph by <a href="https://unsplash.com/photos/5fhcbkOPhwA">Ganapathy Kumar</figcaption>
-</figure>
-
-
-
-<a href=https://www.buymeacoffee.com/LewisAJones>Buy me a coffee
+[![Photograph by Ganapathy Kumar](images/cover.jpg)](https://unsplash.com/photos/5fhcbkOPhwA)
+:::
