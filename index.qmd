@@ -1,7 +1,7 @@
 # Welcome {.unnumbered}
 
 ::: {layout-ncol="2"}
-This website hosts **The Cnidarians**. A book about... you guessed it, Cnidaria.
+ This website hosts **The Cnidarians**. A book about... you guessed it, Cnidaria.
 <br>
 <br>
 *The book is currently being written...* ***IN THE OPEN!*** 😱 
