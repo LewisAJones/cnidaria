@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Cnidaria"
+  title: "The Cnidarians"
   author: "Lewis A. Jones"
   date: today
   favicon: images/favicon_package_v0-3/favicon.ico
