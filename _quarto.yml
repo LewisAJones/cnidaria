@@ -8,6 +8,7 @@ book:
   favicon: images/favicon_package_v0-3/favicon.ico
   chapters:
     - index.qmd
+    - preface.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
